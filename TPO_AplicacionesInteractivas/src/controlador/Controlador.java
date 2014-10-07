@@ -122,7 +122,7 @@ public class Controlador {
 	}
 	
 	public String hola(){
-		
+		int a;
 		return null;
 	}
 
