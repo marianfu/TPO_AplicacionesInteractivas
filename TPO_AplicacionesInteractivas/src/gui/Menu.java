@@ -1,5 +1,12 @@
 package gui;
 
+import gui.VentanaAltaMaterial;
+import gui.VentanaAltaProveedor;
+import gui.VentanaBajaMaterial;
+import gui.VentanaListaMateriales;
+import gui.VentanaListaProveedor;
+import gui.VentanaModificarMaterial;
+
 import java.awt.BorderLayout;
 import java.awt.Container;
 import java.awt.event.ActionEvent;
