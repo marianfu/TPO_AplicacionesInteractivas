@@ -121,5 +121,9 @@ public class Controlador {
 		return null;
 	}
 	
+	public String hola(){
+		
+		return null;
+	}
 
 }
