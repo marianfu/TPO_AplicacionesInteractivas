@@ -121,9 +121,10 @@ public class Controlador {
 		return null;
 	}
 	
-	public String hola(){
-		int a;
-		return null;
+	public void githubpls(){
+		System.out.println("ni nos vimos github");
 	}
+
+	
 
 }
