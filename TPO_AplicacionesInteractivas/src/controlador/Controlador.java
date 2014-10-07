@@ -123,6 +123,8 @@ public class Controlador {
 	
 	public void githubpls(){
 		System.out.println("ni nos vimos github");
+		System.out.println("ni nos vimos github");
+
 	}
 
 	
